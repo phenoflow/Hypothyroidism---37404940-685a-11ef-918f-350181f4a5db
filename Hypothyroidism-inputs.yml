@@ -1,0 +1,21 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/hypothyroidism-acquired---icduncat.py
+inputModule3:
+  class: File
+  path: python/hypothyroidism---icduncat.py
+inputModule4:
+  class: File
+  path: python/hypothyroidism-thyroiditis---icduncat.py
+inputModule5:
+  class: File
+  path: python/chronic-hypothyroidism---icduncat.py
+inputModule6:
+  class: File
+  path: python/output-cases.py
